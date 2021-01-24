@@ -6,6 +6,8 @@
 //  Copyright © 2020 Kim. All rights reserved.
 //
 
+// Second Try
+
 import Foundation
 
 class Card {
